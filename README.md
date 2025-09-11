@@ -1,5 +1,5 @@
 # Hey, I'm Aviv.
-#### Full stack engineer with backend focus in the Ruby / Ruby on Rails ecosystem of close to a decade. Hobbyist of finance and accounting. Statistics/math student.
+#### Full stack engineer with backend focus in the Ruby on Rails ecosystem for close to a decade. Hobbyist of finance and accounting. Statistics/math student.
 
 My hobbies include:
 - Hiking & backpacking 🎒
